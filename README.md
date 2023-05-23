@@ -1,2 +1,2 @@
 # BMI-CALCULATOR
-[ html+css+js](https://github.com/jaswanthbandaru/BMI-CALCULATOR)
+[CLICK HERE](https://jaswanthbandaru.github.io/BMI-CALCULATOR/)
